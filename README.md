@@ -1,4 +1,4 @@
-# Frontend Project
+# AI Interviewer
 
 ## Architecture
 
